@@ -1,4 +1,4 @@
-# Project 3: CSS Color Markers - Responsive Web Design (FreeCodeCamp)
+# Project 3: CSS Color Markers - Responsive Web Design (FCC)
 
 ##### This repository contains the completed code for Project 3 in the FreeCodeCamp "Responsive Web Design" course. 
 
